@@ -1,6 +1,7 @@
 # HeadZone Headphone Sales Performance Dashboard (2020-2024)
 
-This project analyzes synthetic headphone sales data across regions, marketing channels, and product types. The goal was to understand which factors drive sales performance and to identify actionable opportunities for growth. Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/headzone_electronics_sales/salesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Executive Summary
+This project analyzes synthetic headphone sales (2020–2024) using Python, SQL, and Tableau to uncover product, regional, and marketing factors influencing performance. I developed a KPI-driven dashboard to visualize sales trends, identify growth opportunities, and provide actionable business recommendations. Interactive Tableau dashboard can be found [here](https://public.tableau.com/views/headzone_electronics_sales/salesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <a href="https://public.tableau.com/app/profile/colin.caban/viz/headzone_electronics_sales/salesDashboard" target="_blank" rel="noopener noreferrer">
   <img src="headzone_electronics_dashboard.PNG" alt="Click to open dashboard">
